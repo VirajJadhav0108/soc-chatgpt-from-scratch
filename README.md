@@ -1,8 +1,8 @@
 # soc-chatgpt-from-scratch
 Seasons of Code | Building GPT from Scratch using Python, NumPy &amp; PyTorch
-# 🧠 Build Your Own ChatGPT from Scratch — SoC 2025
+# 🧠 Build Your Own ChatGPT from Scratch — SoC
 
-> **IIT Bombay Seasons of Code (SoC) 2025**  
+> **Seasons of Code (SoC)**  
 > Project: *Build Your Own ChatGPT from Scratch*  
 > Mentors: Ahoy-Codey  
 > Participant: Viraj | B.Tech Civil Engineering (Minor: ML/AI), IIT Bombay
