@@ -2,8 +2,6 @@
 
 > **Seasons of Code (SoC)**
 > Project: *Build Your Own ChatGPT from Scratch*
-> Mentors: Ahoy-Codey
-> Participant: Viraj | B.Tech Civil Engineering (Minor: AI/ML), IIT Bombay
 
 ---
 
