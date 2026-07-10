@@ -27,7 +27,6 @@ Rather than relying on high-level libraries, this project focuses on understandi
 | 4    | Advanced Backpropagation & Optimization        | ✅ Complete  |
 | 5    | PyTorch Fundamentals                           | ✅ Complete  |
 | 6    | GPT from Scratch (Character-Level Transformer) | ✅ Complete  |
-| 7–8  | Fine-tuning / ChatGPT Web App (Optional)       | ⏸️ Optional |
 
 ---
 
